@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "message-application-huynq102": {
+      "hosting": {
+        "angular_tutorial": [
+          "message-application-huynq102"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "message-application-huynq102"
+  }
+}
